@@ -28,7 +28,7 @@ You can try out the application live on [Vercel](https://day-31-form-valid.verce
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/JASWANT2001/FORMIK-VALIDATION-LIBRARY-MANAGEMENT.git
+   git clone https://github.com/JASWANT2001/Day-31-FormValid.git
    ```
 
 2. Change to the project directory:
