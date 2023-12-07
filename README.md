@@ -2,8 +2,6 @@
 
 Welcome to the Library Management System, a web application designed to help manage your library's books and authors.
 
-![Library Management System](https://github.com/Shanmugamrskfamily/FORMIK-VALIDATION-LIBRARY-MANAGEMENT/blob/main/public/demo.png)
-
 ## Features
 
 - Add and manage books, including titles, authors, ISBN numbers, and publication dates.
@@ -14,7 +12,7 @@ Welcome to the Library Management System, a web application designed to help man
 
 ## Demo
 
-You can try out the application live on [Netlify](https://library-management-formik-validation.netlify.app/).
+You can try out the application live on [Netlify]().
 
 ## Technologies Used
 
@@ -71,13 +69,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-## Contact
-
-If you have any questions or feedback, feel free to contact me:
-<br>
-Email: <a href="shanmugamrskfamily@gmail.com" type="email">shanmugamasrskfamily@gmail.com</a>
-<br>
-Linkedln: <a href="https://www.linkedin.com/in/shanmugamrskfamily/">SHANMUGAM R</a>
-<br>
-Thank you for using the Library Management System!
