@@ -12,7 +12,7 @@ Welcome to the Library Management System, a web application designed to help man
 
 ## Demo
 
-You can try out the application live on [Netlify]().
+You can try out the application live on [Vercel](https://day-31-form-valid.vercel.app/).
 
 ## Technologies Used
 
@@ -28,7 +28,7 @@ You can try out the application live on [Netlify]().
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Shanmugamrskfamily/FORMIK-VALIDATION-LIBRARY-MANAGEMENT.git
+   git clone https://github.com/JASWANT2001/FORMIK-VALIDATION-LIBRARY-MANAGEMENT.git
    ```
 
 2. Change to the project directory:
